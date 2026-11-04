@@ -1,3 +1,12 @@
+# Casa Wiki · API
+
+Instancia propia del backend para Casa Wiki (NestJS 11 + TypeORM + PostgreSQL).
+Deploy: https://casa-wiki-api.vercel.app · Proyecto Vercel: `casa-wiki-backend` · Repo: `Ariel-Sq/casa-wiki-backend`.
+
+Diferencias con `legas-backend`: base Neon propia (`casawiki-db`), Blob store propio (`casawiki-images`), secretos JWT/shared-secret propios y CORS limitado a `casawiki.vercel.app`.
+
+---
+
 # Ecommerce Backend API
 
 Backend API for Ecommerce application built with NestJS, TypeScript, and PostgreSQL.
